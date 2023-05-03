@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SaucyTangoFood/static/css/main.418f1bb1.css",
+    "main.js": "/SaucyTangoFood/static/js/main.80b2a3a6.js",
+    "static/js/787.f7e0174c.chunk.js": "/SaucyTangoFood/static/js/787.f7e0174c.chunk.js",
+    "index.html": "/SaucyTangoFood/index.html",
+    "main.418f1bb1.css.map": "/SaucyTangoFood/static/css/main.418f1bb1.css.map",
+    "main.80b2a3a6.js.map": "/SaucyTangoFood/static/js/main.80b2a3a6.js.map",
+    "787.f7e0174c.chunk.js.map": "/SaucyTangoFood/static/js/787.f7e0174c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.418f1bb1.css",
+    "static/js/main.80b2a3a6.js"
+  ]
+}
